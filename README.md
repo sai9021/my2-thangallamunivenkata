@@ -7,3 +7,15 @@ It is a Hill plaece and beautiful.<br> There are two ancient temples addicted to
 
 ***Masters*** <br>
 ***Maryville***
+
+*********************************
+# INTERESTS
+
+* Go to the place
+* Visited temple
+ * Shiva god
+ * Vishnu god
+* Natural climate
+
+
+
