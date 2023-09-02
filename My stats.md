@@ -25,6 +25,8 @@ This is a Sports Table:
 
 *********************************
 
+* ![MyImage](sai.png.png)*
+
 
 
 #Code Fencing
