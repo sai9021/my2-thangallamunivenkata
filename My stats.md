@@ -25,7 +25,9 @@ This is a Sports Table:
 
 *********************************
 
-[Source of image](https://github.com/sai9021/my2-thangallamunivenkata/blob/2cfda607d18c46a5f25e93c95c1d14a9d268f64f/sai.png)
+[Source of image](https://github.com/sai9021/my2-thangallamunivenkata/blob/2cfda607d18c46a5f25e93c95c1d14a9d268f64f/sai.png.png)
+
+sai.png
 
 #Code Fencing
 
