@@ -17,7 +17,6 @@ This is a Sports Table:
 
 
 
-![Sonny and Mariel high fiving.](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif))
 
 *********************************
 > According to ***sai*** the world is like a full of good things.
@@ -58,6 +57,9 @@ This is a Sports Table:
 
 ```
 [Source of css code snippet](https://css-tricks.com/snippets/html/post-data-to-an-iframe/)
+
+
+
 
 
 
