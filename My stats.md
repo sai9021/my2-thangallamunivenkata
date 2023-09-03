@@ -6,7 +6,7 @@ I am from india.<br> Iam Graduate student in NWMSU.
 
 *********************************
 This is a Sports Table:
-| # Sport name | Reason to Recommend | Hours spending in week |
+|  Sport name | Reason to Recommend | Hours spending in week |
 | --------| ------------------------| ---------------------: |
 | Cricket | Its very challenging game | 8 hrs|
 | Carroms |      Its indore game      | 6 hrs|
@@ -33,7 +33,7 @@ This is a Sports Table:
 
 
 
-#Code Fencing
+# Code Fencing
 
 >
 ```
