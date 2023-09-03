@@ -14,6 +14,10 @@ This is a Sports Table:
 
 
 
+* ![MyImage](./sai.png)*
+
+
+
 
 
 
@@ -21,7 +25,7 @@ This is a Sports Table:
 *********************************
 > According to ***sai*** the world is like a full of good things.
 >
->According to ***kumar*** life is full of suddnd surprises and miracles.
+>According to ***kumar*** life is full of sudden surprises and miracles.
 
 *********************************
 
